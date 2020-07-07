@@ -1,5 +1,6 @@
 
-# dependencies
+### npm
+npm-debug.log
 node_modules
 
 # testing
@@ -11,4 +12,3 @@ build
 # misc
 .DS_Store
 .env
-npm-debug.log
