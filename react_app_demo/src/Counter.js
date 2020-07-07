@@ -22,6 +22,7 @@ class Counter extends Component {
   getInitialState() {
     console.log('enter getInitialState');
   }
+
   getDefaultProps() {
     console.log('enter getDefaultProps');
   }
@@ -75,3 +76,4 @@ Counter.defaultProps = {
 };
 
 export default Counter;
+
